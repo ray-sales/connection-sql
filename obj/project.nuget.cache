@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "F0MJlYPUPbAABXi17wwq/Z19pP6uyS5avlXwf690FeXR18PsR4FftmuWpwcOsdQtwKrdyUKgT3S/F6XGUqePdQ==",
+  "dgSpecHash": "4Lt9EIK/+1O8ZCGBngqGVnFXI42jX7lO/pJThE6j+myd2EuWOUlbEJayTWEp3mCUXH16yidwFdU7THEk1VtZTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Perfil Trabalho\\Desktop\\C#\\BaltaDataAcess\\BaltaDataAcess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Perfil Trabalho\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Perfil Trabalho\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
+    "C:\\Users\\Perfil Trabalho\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Perfil Trabalho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\Perfil Trabalho\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Perfil Trabalho\\.nuget\\packages\\microsoft.data.sqlclient\\3.0.0\\microsoft.data.sqlclient.3.0.0.nupkg.sha512",
